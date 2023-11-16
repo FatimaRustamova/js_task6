@@ -1,0 +1,35 @@
+.text{
+    padding-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:lightsalmon;
+}
+
+.example{
+    border: 2px dashed black;
+    width: 300px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+
+#h-element{
+    font-size: 25px;
+}
+
+#btn1, #btn2, #btn3, #btn4, #btn5, #btn6, #btn7, #btn8{
+    cursor: pointer;
+    width: 100px;
+    height: 30px;
+    border: 1px solid teal;
+    background-color: teal;
+    border-radius: 30px;
+}
+
+h4{
+    font-size: 18px;
+}
